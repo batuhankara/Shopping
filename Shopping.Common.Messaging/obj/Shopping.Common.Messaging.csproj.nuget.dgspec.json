@@ -1,0 +1,192 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\batuhan\\Desktop\\upwork\\TestTask\\Shopping.Common.Messaging\\Shopping.Common.Messaging.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\batuhan\\Desktop\\upwork\\TestTask\\Shopping.Common.Extensions\\Shopping.Common.Extensions.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\batuhan\\Desktop\\upwork\\TestTask\\Shopping.Common.Extensions\\Shopping.Common.Extensions.csproj",
+        "projectName": "Shopping.Common.Extensions",
+        "projectPath": "C:\\Users\\batuhan\\Desktop\\upwork\\TestTask\\Shopping.Common.Extensions\\Shopping.Common.Extensions.csproj",
+        "packagesPath": "C:\\Users\\batuhan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\batuhan\\Desktop\\upwork\\TestTask\\Shopping.Common.Extensions\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\batuhan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\batuhan\\Desktop\\upwork\\TestTask\\Shopping.Common.Messaging\\Shopping.Common.Messaging.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\batuhan\\Desktop\\upwork\\TestTask\\Shopping.Common.Messaging\\Shopping.Common.Messaging.csproj",
+        "projectName": "Shopping.Common.Messaging",
+        "projectPath": "C:\\Users\\batuhan\\Desktop\\upwork\\TestTask\\Shopping.Common.Messaging\\Shopping.Common.Messaging.csproj",
+        "packagesPath": "C:\\Users\\batuhan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\batuhan\\Desktop\\upwork\\TestTask\\Shopping.Common.Messaging\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\batuhan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\batuhan\\Desktop\\upwork\\TestTask\\Shopping.Infra\\Shopping.Infra.csproj": {
+                "projectPath": "C:\\Users\\batuhan\\Desktop\\upwork\\TestTask\\Shopping.Infra\\Shopping.Infra.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\batuhan\\Desktop\\upwork\\TestTask\\Shopping.Infra\\Shopping.Infra.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\batuhan\\Desktop\\upwork\\TestTask\\Shopping.Infra\\Shopping.Infra.csproj",
+        "projectName": "Shopping.Infra",
+        "projectPath": "C:\\Users\\batuhan\\Desktop\\upwork\\TestTask\\Shopping.Infra\\Shopping.Infra.csproj",
+        "packagesPath": "C:\\Users\\batuhan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\batuhan\\Desktop\\upwork\\TestTask\\Shopping.Infra\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\batuhan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\batuhan\\Desktop\\upwork\\TestTask\\Shopping.Common.Extensions\\Shopping.Common.Extensions.csproj": {
+                "projectPath": "C:\\Users\\batuhan\\Desktop\\upwork\\TestTask\\Shopping.Common.Extensions\\Shopping.Common.Extensions.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "EventStore.Client": {
+              "target": "Package",
+              "version": "[21.2.2, )"
+            },
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "ReflectionMagic": {
+              "target": "Package",
+              "version": "[4.1.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

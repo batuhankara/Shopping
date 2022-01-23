@@ -1,0 +1,12 @@
+C:\Users\batuhan\Desktop\upwork\TestTask\Shopping.Common.Extensions\bin\Debug\net6.0\Shopping.Common.Extensions.deps.json
+C:\Users\batuhan\Desktop\upwork\TestTask\Shopping.Common.Extensions\bin\Debug\net6.0\Shopping.Common.Extensions.dll
+C:\Users\batuhan\Desktop\upwork\TestTask\Shopping.Common.Extensions\bin\Debug\net6.0\ref\Shopping.Common.Extensions.dll
+C:\Users\batuhan\Desktop\upwork\TestTask\Shopping.Common.Extensions\bin\Debug\net6.0\Shopping.Common.Extensions.pdb
+C:\Users\batuhan\Desktop\upwork\TestTask\Shopping.Common.Extensions\obj\Debug\net6.0\Shopping.Common.Extensions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\batuhan\Desktop\upwork\TestTask\Shopping.Common.Extensions\obj\Debug\net6.0\Shopping.Common.Extensions.AssemblyInfoInputs.cache
+C:\Users\batuhan\Desktop\upwork\TestTask\Shopping.Common.Extensions\obj\Debug\net6.0\Shopping.Common.Extensions.AssemblyInfo.cs
+C:\Users\batuhan\Desktop\upwork\TestTask\Shopping.Common.Extensions\obj\Debug\net6.0\Shopping.Common.Extensions.csproj.CoreCompileInputs.cache
+C:\Users\batuhan\Desktop\upwork\TestTask\Shopping.Common.Extensions\obj\Debug\net6.0\Shopping.Common.Extensions.dll
+C:\Users\batuhan\Desktop\upwork\TestTask\Shopping.Common.Extensions\obj\Debug\net6.0\ref\Shopping.Common.Extensions.dll
+C:\Users\batuhan\Desktop\upwork\TestTask\Shopping.Common.Extensions\obj\Debug\net6.0\Shopping.Common.Extensions.pdb
+C:\Users\batuhan\Desktop\upwork\TestTask\Shopping.Common.Extensions\obj\Debug\net6.0\Shopping.Common.Extensions.csproj.AssemblyReference.cache

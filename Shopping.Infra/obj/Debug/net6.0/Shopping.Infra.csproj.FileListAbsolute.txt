@@ -1,0 +1,15 @@
+C:\Users\batuhan\Desktop\upwork\TestTask\Shopping.Infra\bin\Debug\net6.0\Shopping.Infra.deps.json
+C:\Users\batuhan\Desktop\upwork\TestTask\Shopping.Infra\bin\Debug\net6.0\Shopping.Infra.dll
+C:\Users\batuhan\Desktop\upwork\TestTask\Shopping.Infra\bin\Debug\net6.0\ref\Shopping.Infra.dll
+C:\Users\batuhan\Desktop\upwork\TestTask\Shopping.Infra\bin\Debug\net6.0\Shopping.Infra.pdb
+C:\Users\batuhan\Desktop\upwork\TestTask\Shopping.Infra\bin\Debug\net6.0\Shopping.Common.Extensions.dll
+C:\Users\batuhan\Desktop\upwork\TestTask\Shopping.Infra\bin\Debug\net6.0\Shopping.Common.Extensions.pdb
+C:\Users\batuhan\Desktop\upwork\TestTask\Shopping.Infra\obj\Debug\net6.0\Shopping.Infra.csproj.AssemblyReference.cache
+C:\Users\batuhan\Desktop\upwork\TestTask\Shopping.Infra\obj\Debug\net6.0\Shopping.Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\batuhan\Desktop\upwork\TestTask\Shopping.Infra\obj\Debug\net6.0\Shopping.Infra.AssemblyInfoInputs.cache
+C:\Users\batuhan\Desktop\upwork\TestTask\Shopping.Infra\obj\Debug\net6.0\Shopping.Infra.AssemblyInfo.cs
+C:\Users\batuhan\Desktop\upwork\TestTask\Shopping.Infra\obj\Debug\net6.0\Shopping.Infra.csproj.CoreCompileInputs.cache
+C:\Users\batuhan\Desktop\upwork\TestTask\Shopping.Infra\obj\Debug\net6.0\Shopping.Infra.csproj.CopyComplete
+C:\Users\batuhan\Desktop\upwork\TestTask\Shopping.Infra\obj\Debug\net6.0\Shopping.Infra.dll
+C:\Users\batuhan\Desktop\upwork\TestTask\Shopping.Infra\obj\Debug\net6.0\ref\Shopping.Infra.dll
+C:\Users\batuhan\Desktop\upwork\TestTask\Shopping.Infra\obj\Debug\net6.0\Shopping.Infra.pdb

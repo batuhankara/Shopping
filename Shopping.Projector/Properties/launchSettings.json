@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Shopping.Projector": {
+      "commandName": "Project"
+    },
+    "Docker": {
+      "commandName": "Docker"
+    }
+  }
+}
